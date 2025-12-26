@@ -1,4 +1,4 @@
-# Context-Arsenal 🚀
+# Context-Adder 🚀
 
 A lightweight, interactive batch script to quickly add any tool (IDA Pro, x64dbg, HxD, etc.) to your Windows right-click context menu.
 
@@ -21,3 +21,4 @@ Enter the Name to display in menu: IDA Pro 9.0
 
 [+] Registering "IDA Pro 9.0"...
 [OK] Successfully added.
+```
